@@ -1,1 +1,58 @@
-{ "items": [ { "id": "movie-1", "title": "My First Movie", "shortDescription": "A test movie for my Roku app.", "thumbnail": "https://example.com/thumb1.png", "releaseDate": "2024-01-01", "genres": ["test"], "content": { "duration": 120, "videos": [ { "videoType": "MP4", "url": "https://example.com/video1.mp4", "quality": "HD" } ] } } ] }
+{
+  "items": [
+    {
+      "id": "movie-1",
+      "title": "My First Movie",
+      "shortDescription": "A test movie for my Roku app.",
+      "thumbnail": "https://example.com/thumb1.png",
+      "releaseDate": "2024-01-01",
+      "genres": ["test"],
+      "content": {
+        "duration": 120,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://example.com/video1.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "movie-2",
+      "title": "My Second Movie",
+      "shortDescription": "Another test movie to expand my Roku feed.",
+      "thumbnail": "https://example.com/thumb2.png",
+      "releaseDate": "2024-02-15",
+      "genres": ["test"],
+      "content": {
+        "duration": 95,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://example.com/video2.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "movie-3",
+      "title": "My Third Movie",
+      "shortDescription": "A final test movie for validating UI lists.",
+      "thumbnail": "https://example.com/thumb3.png",
+      "releaseDate": "2024-03-10",
+      "genres": ["test"],
+      "content": {
+        "duration": 110,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://example.com/video3.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ]
+}
