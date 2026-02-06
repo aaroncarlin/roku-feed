@@ -4,7 +4,7 @@
       "id": "movie-1",
       "title": "My First Movie",
       "shortDescription": "A test movie for my Roku app.",
-      "thumbnail": "https://example.com/thumb1.png",
+      "thumbnail": "https://dummyimage.com/300x200/000/fff.png&text=Movie+1",
       "releaseDate": "2024-01-01",
       "genres": ["test"],
       "content": {
@@ -22,7 +22,7 @@
       "id": "movie-2",
       "title": "My Second Movie",
       "shortDescription": "Another test movie to expand my Roku feed.",
-      "thumbnail": "https://example.com/thumb2.png",
+      "thumbnail": "https://dummyimage.com/300x200/000/fff.png&text=Movie+2",
       "releaseDate": "2024-02-15",
       "genres": ["test"],
       "content": {
@@ -40,7 +40,7 @@
       "id": "movie-3",
       "title": "My Third Movie",
       "shortDescription": "A final test movie for validating UI lists.",
-      "thumbnail": "https://example.com/thumb3.png",
+      "thumbnail": "https://dummyimage.com/300x200/000/fff.png&text=Movie+3",
       "releaseDate": "2024-03-10",
       "genres": ["test"],
       "content": {
