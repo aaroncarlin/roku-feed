@@ -1,0 +1,1 @@
+{ "items": [ { "id": "movie-1", "title": "My First Movie", "shortDescription": "A test movie for my Roku app.", "thumbnail": "https://example.com/thumb1.png", "releaseDate": "2024-01-01", "genres": ["test"], "content": { "duration": 120, "videos": [ { "videoType": "MP4", "url": "https://example.com/video1.mp4", "quality": "HD" } ] } } ] }
